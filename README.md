@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/hero.svg" width="720" alt="Jesús Almanza, software and data engineer. Pixel art: scattered ERP records flow into a data warehouse and come out as a bar chart.">
+  <img src="assets/hero.svg" width="720" alt="Jesús Almanza, software and data engineer, as a pixel-art portrait. Scattered ERP records flow into a data warehouse and come out as a bar chart.">
 </p>
+
+<p align="center"><a href="README.es.md">Leer en español</a></p>
 
 **I build the pipelines, APIs and AI agents that turn raw accounting data into numbers a finance team can actually decide with.**
 
